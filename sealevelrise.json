@@ -1,0 +1,67 @@
+{
+  "name": "Sea level rise sources"
+  {
+    "source" : "noaa",
+    "yrPublished" : 2017,
+    "geoArea" : "usa",
+    "min2100" : 0.30,
+    "max2100" : 9.7,
+    "scenarios" : [
+      "low",
+      "intermediate-low",
+      "intermediate",
+      "intermediate-high",
+      "high",
+      "extreme"
+    ],
+    "refURL" : "https://tidesandcurrents.noaa.gov/publications/techrpt83_Global_and_Regional_SLR_Scenarios_for_the_US_final.pdf"
+  },
+  {
+    "source" : "ipcc",
+    "yrPublished" : 2013,
+    "geoArea" : "global",
+    "min2100" : 0.91,
+    "max2100" : 3.2,
+    "scenarios" : [
+      "rcp2.6",
+      "rcp4.5",
+      "rcp6.0",
+      "rcp8.5"
+    ],
+    "refURL" : "https://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_Chapter13_FINAL.pdf"
+  },
+  {
+    "source" : "eea",
+    "yrPublished" : 2017,
+    "geoArea" : "europe",
+    "min2100" : 0.91,
+    "max2100" : 3.2,
+    "scenarios" : [
+      "rcp2.6",
+      "rcp4.5",
+      "rcp6.0",
+      "rcp8.5"
+    ],
+    "refURL" : "https://www.eea.europa.eu/data-and-maps/indicators/sea-level-rise-5/assessment"
+  },
+  {
+    "source" : "npcc",
+    "yrPublished" : 2015,
+    "geoArea" : "new york",
+    "min2100" : 0.38,
+    "max2100" : 1.9,
+    "scenarios" : [
+      "low",
+      "middle",
+      "high"
+    ],
+    "refURL" : "https://nyaspubs.onlinelibrary.wiley.com/toc/17496632/1336/1"
+  },
+
+
+
+
+
+
+
+}
