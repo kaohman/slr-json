@@ -1,5 +1,4 @@
-{
-  "name": "Sea level rise sources"
+[
   {
     "source" : "noaa",
     "yrPublished" : 2017,
@@ -56,12 +55,5 @@
       "high"
     ],
     "refURL" : "https://nyaspubs.onlinelibrary.wiley.com/toc/17496632/1336/1"
-  },
-
-
-
-
-
-
-
-}
+  }
+]
