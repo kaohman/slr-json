@@ -16,3 +16,4 @@ This is a JSON dataset with sea level rise resources stored as objects.
 * Karin Ohman
 
 ## Site Comp
+![site comp](site-comp.png)
